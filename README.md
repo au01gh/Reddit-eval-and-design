@@ -4,10 +4,12 @@ Evaluation of two features from Reddit.com and creaated a new design based on th
 
 ## The Two Features Selected
 Feature #1 - Find a saved post
+
 ![](https://github.com/au01gh/Reddit-eval-and-design/blob/main/gifs/feature1.gif)
 
 
 Feature #2 - Send a message to another user
+
 ![](https://github.com/au01gh/Reddit-eval-and-design/blob/main/gifs/feature2.gif)
 
 ## Evaluation
